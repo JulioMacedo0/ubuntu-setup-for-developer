@@ -1,4 +1,4 @@
-# Bash script for configuring an Ubuntu development environment
+# Bash script for configuring an Ubuntu development environment for flutter
 
 Navigate to the directory where the bash file is located using the `cd` command.  
 For example, if the file is in the `/home/your-user/scripts` folder, you can use the command:
